@@ -25,7 +25,7 @@ setup(
 	                 open('HISTORY.rst').read(),
 	author='Kenneth Reitz',
 	author_email='me@kennethreitz.com',
-	url='http://tablib.org',
+	url='https://github.com/kennethreitz/wolfram',
 	packages= [
 		'wolfram',
 	],
